@@ -1,7 +1,7 @@
 # PatNat-Sentinel-1-Prototipos---Agua-y-Biomasa
 Generar  prototipos  de  análisis,  así  como  pruebas  y  calibración,  a  partir  del  estudio  de imágenes  de  sensores remotos  seleccionadas  de  la  plataforma  Sentinel,  en  los temas  de  monitoreo  de  biomasa,  entendido  como ganancias  y  pérdidas  estructurales  de  la  vegetación  e  igualmente  para  el  mapeo  de  reservorios  y  pulsos  de inundación  y  en  áreas  de  tipos  de  bosque  adicionales  al  bosque  húmero  tropical,  que  permita  su  posterioraplicación  y  escalamiento  técnico  y  financiero  en  el  sistema  SILVA-CRAS  que  complementen  el  sistema  ya desarrollado para el Programa C&amp;G con énfasis en el piedemonte andino amazónico.
 
-El proyecto comprende los siguientes productos que corresponde a Jupyter Notebooks bajo 
+El proyecto comprende los siguientes productos que corresponden a dos Jupyter Notebooks desarrollados en Python que se describen a continuación: 
 
 # Prototipo Agua
 
